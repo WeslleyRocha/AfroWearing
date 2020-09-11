@@ -1,0 +1,37 @@
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe.config
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.pdb
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csprojAssemblyReference.cache
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Properties.Resources.resources
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csproj.GenerateResource.cache
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.exe
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.pdb
+C:\Users\wllyn\OneDrive\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.PHome.resources
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe.config
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.pdb
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csprojAssemblyReference.cache
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.PHome.resources
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Properties.Resources.resources
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csproj.GenerateResource.cache
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.exe
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.pdb
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\pt-BR\Afro_Wearing.resources.dll
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Cadastro.resources
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Cadastro.pt-BR.resources
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\pt-BR\Afro_Wearing.resources.dll
+C:\Users\wllyn\Desktop\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Splash.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe.config
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.exe
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\Afro_Wearing.pdb
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\bin\Debug\pt-BR\Afro_Wearing.resources.dll
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csprojAssemblyReference.cache
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Cadastro.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Splash.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.PHome.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Properties.Resources.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.Cadastro.pt-BR.resources
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.csproj.GenerateResource.cache
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\pt-BR\Afro_Wearing.resources.dll
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.exe
+Z:\Área de Trabalho\AfroWearing\Projetos HTML\Afro Wearing Forms\Afro_Wearing\Afro_Wearing\obj\Debug\Afro_Wearing.pdb
